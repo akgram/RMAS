@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CheckCount</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="email_example">email</string>
+    <string name="password_example">password</string>
+    <string name="register_button">Sign up</string>
+    <string name="login_button">Log in</string>
+    <string name="credentials_error">Uneti podaci nisu ispravni</string>
+    <string name="email_badly_formatted">Neispravan format email adrese</string>
+    <string name="register">Sign up to check real-time crowd levels at popular spots.</string>
+    <string name="photo_text">Profilna slika</string>
+    <string name="username_example_text">petar.petrovic</string>
+    <string name="full_name_example_text">full name</string>
+    <string name="phone_number_example_text">0601234567</string>
+    <string name="already_have_account">Have an account? </string>
+    <string name="lets_login">Log in</string>
+    <string name="email_used">Postoji nalog sa ovom adresom</string>
+    <string name="short_password">Lozinka mora imati najmanje 6 karaktera</string>
+
+    <string name="notification_chanel_name">Notification</string>
+    <string name="search_text">Search</string>
+
+
+    <string name="add_new_obj_heading">Add new club/hotel/caffe</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
